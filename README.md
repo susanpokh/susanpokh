@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✨ Exploring tech<br>📚 I'm currently learning ❌  building projects ✅<br>🎯 Goals: Learn about Life<br>🎲 Fun fact: How to center a div? 🤔</p>
+<p align="left">✨ Exploring tech<br>📚 I'm currently learning ❌  building projects ✅<br>🎯 Goal: Learn about Life<br>🎲 Fun fact: How to center a div? 🤔</p>
 
 ###
 
